@@ -15,4 +15,4 @@
 #git checkout 分支名
 
 #git log --graph --pretty=oneline --abbrev-commit
-Please enter your number && age
+Please enter your number and age
