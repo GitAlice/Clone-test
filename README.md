@@ -13,3 +13,6 @@
 #git checkout -b 分支名
 #git branch 分支名
 #git checkout 分支名
+
+#git log --graph --pretty=oneline --abbrev-commit
+Please enter your number and age
