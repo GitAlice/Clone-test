@@ -13,3 +13,5 @@
 #git checkout -b 分支名
 #git branch 分支名
 #git checkout 分支名
+
+#git clone git@github.com:GitAlice/<filename>.git
