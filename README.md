@@ -18,3 +18,9 @@
 Please enter your number and age
 
 Inser into merge
+
+
+du -h -cs * | sort -rn | head -n 10
+printf "\n"
+
+
