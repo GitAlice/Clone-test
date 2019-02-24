@@ -17,4 +17,4 @@
 #git log --graph --pretty=oneline --abbrev-commit
 Please enter your number and age
 
-Inser into merge
+Insert into merge and number
