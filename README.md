@@ -15,3 +15,4 @@
 #git checkout 分支名
 
 #git clone git@github.com:GitAlice/<filename>.git
+#git pull
