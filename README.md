@@ -24,3 +24,6 @@ du -h -cs * | sort -rn | head -n 10
 printf "\n"
 #git clone git@github.com:GitAlice/<filename>.git
 #git pull
+
+#git config --global alias.st status
+#.git/config
